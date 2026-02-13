@@ -1,5 +1,5 @@
 const title = document.querySelector('.title')
-const text = `My Fineshyt`.split('')
+const text = `Happy Valentine`.split('')
 
 // Create container for better responsive layout
 title.style.display = 'flex'
